@@ -1,5 +1,5 @@
 # CETAM---IADS
-Conteúdo da disciplina de Infórmatica aplicada ao Desenvolvador de software
+Conteúdo da disciplina de Informática aplicada ao Desenvolvedor de software
 
 * Evolução histórica da Informática
   * Introdução a processamento de dados
