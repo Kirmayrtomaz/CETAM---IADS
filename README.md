@@ -23,14 +23,14 @@ Conteúdo da disciplina de Informática aplicada ao Desenvolvedor de software
   * Permissões de acesso
   * Finalização de processos
   * Tipos de distribuíção
-* O sistema Operacional (Proprietário)
+* [O sistema Operacional (Proprietário)](https://docs.google.com/presentation/d/1_TUC735mNh2bgfrT8FqQICzrOF7H_fZuLcHAEIDOCwM/edit#slide=id.p)
   * Conceitos
   * Organização de arquivos
   * O ambiente gráfico 
   * Programas de escritório do Windows
-  * Editor de texto
-  * Apresentações eletrônicas
-  * Planilha eletrônicas
+  * [Editor de texto](https://docs.google.com/presentation/d/1SZ7mgoGk11BEOFEGCVN7dQHRgWZOk4TRlEdr3F9CaTM/edit)
+  * [Apresentações eletrônicas](https://docs.google.com/presentation/d/180t1WbOjjoXWe7-98UDA0Qzaca1vmRPrZ4ikrwFZl6c/edit)
+  * [Planilha eletrônicas](https://docs.google.com/presentation/d/1OjrftTQAc0v8COd3ySLDukylbqF0UpFt-qigzew3hXw/edit?usp=drive_web)
   * Funcionamento da internet
   * Correiro eletrônico
   * Navegação
